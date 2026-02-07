@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Agroforestry Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f5e9;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #1b5e20;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 15px;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #1b5e20;
+        }
+
+        .box {
+            background-color: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+            box-shadow: 2px 2px 5px gray;
+        }
+
+        .image-row {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+
+        .image-row img {
+            width: 30%;
+            border-radius: 10px;
+            margin: 10px;
+        }
+
+        footer {
+            background-color: #2e7d32;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Agroforestry</h1>
+    <p>Sustainable Farming with Trees, Crops and Animals</p>
+</header>
+
+<nav>
+    <a href="#intro">Introduction</a>
+    <a href="#components">Components</a>
+    <a href="#types">Types</a>
+    <a href="#benefits">Benefits</a>
+    <a href="#importance">Importance</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="intro">
+    <h2>Introduction to Agroforestry</h2>
+    <div class="box">
+        <p>
+            Agroforestry is an integrated land-use management system where trees or shrubs are grown
+            together with agricultural crops and/or livestock on the same land. This system helps in
+            maintaining ecological balance while improving farm productivity and farmer income.
+        </p>
+
+        <p>
+            Agroforestry plays an important role in soil conservation, climate change mitigation,
+            biodiversity conservation, and sustainable rural development. It reduces soil erosion,
+            improves soil fertility, and provides multiple products like timber, fruits, fodder,
+            and fuelwood.
+        </p>
+    </div>
+
+    <div class="image-row">
+        <img src="https://images.unsplash.com/photo-1500595046743-cd271d694d30" alt="Agroforestry Field">
+        <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Farm with Trees">
+        <img src="https://images.unsplash.com/photo-1592982537447-6f2a6a94a2c3" alt="Sustainable Farming">
+    </div>
+</section>
+
+<section id="components">
+    <h2>Components of Agroforestry</h2>
+
+    <div class="box">
+        <b>1. Trees and Shrubs:</b> Neem, Mango, Teak, Eucalyptus, Acacia.
+    </div>
+
+    <div class="box">
+        <b>2. Agricultural Crops:</b> Wheat, Maize, Pulses, Millets, Oilseeds.
+    </div>
+
+    <div class="box">
+        <b>3. Livestock (Optional):</b> Cattle, Goats, Sheep, Poultry.
+    </div>
+
+    <div class="image-row">
+        <img src="https://images.unsplash.com/photo-1589923188900-85dae523342b" alt="Neem Tree">
+        <img src="https://images.unsplash.com/photo-1592982537447-6f2a6a94a2c3" alt="Wheat Field">
+        <img src="https://images.unsplash.com/photo-1598133894006-3f93c5de0873" alt="Cattle Grazing">
+    </div>
+</section>
+
+<section id="types">
+    <h2>Types of Agroforestry Systems</h2>
+
+    <div class="box">
+        <b>1. Agri-silviculture:</b> Trees + Crops  
+        Example: Eucalyptus with Wheat or Maize.
+    </div>
+
+    <div class="box">
+        <b>2. Silvi-pastoral:</b> Trees + Pasture + Animals  
+        Example: Trees with grasses for cattle grazing.
+    </div>
+
+    <div class="box">
+        <b>3. Agri-silvi-pastoral:</b> Trees + Crops + Animals together.
+    </div>
+
+    <div class="box">
+        <b>4. Horti-silviculture:</b> Fruit trees + Forest trees  
+        Example: Mango + Teak plantation.
+    </div>
+
+    <div class="image-row">
+        <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef" alt="Row Cropping">
+        <img src="https://images.unsplash.com/photo-1589923188900-85dae523342b" alt="Silvopastoral System">
+        <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef" alt="Mango Orchard">
+    </div>
+</section>
+
+<section id="benefits">
+    <h2>Benefits of Agroforestry</h2>
+
+    <div class="box">
+        <b>Economic Benefits:</b>  
+        - Provides timber, fruits, fuelwood, and fodder.  
+        - Increases farmer income.  
+        - Reduces risk of crop failure.
+    </div>
+
+    <div class="box">
+        <b>Environmental Benefits:</b>  
+        - Prevents soil erosion.  
+        - Improves soil fertility.  
+        - Increases carbon storage (reduces global warming).  
+        - Conserves biodiversity.
+    </div>
+
+    <div class="box">
+        <b>Social Benefits:</b>  
+        - Provides employment.  
+        - Improves rural livelihood.  
+        - Ensures food and fodder security.
+    </div>
+</section>
+
+<section id="importance">
+    <h2>Importance of Agroforestry in India</h2>
+
+    <div class="box">
+        <p>
+            Agroforestry is highly important in India due to increasing population and demand for food,
+            fuel, and timber. It supports sustainable agriculture and helps in climate resilience.
+        </p>
+
+        <p>
+            The Government of India promotes agroforestry through various schemes and programs to
+            support farmers, improve soil health, and increase rural income.
+        </p>
+    </div>
+
+    <div class="image-row">
+        <img src="https://images.unsplash.com/photo-1592982537447-6f2a6a94a2c3" alt="Indian Agriculture">
+        <img src="https://images.unsplash.com/photo-1500595046743-cd271d694d30" alt="Agroforestry India">
+        <img src="https://images.unsplash.com/photo-1589923188900-85dae523342b" alt="Indian Farmers">
+    </div>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <div class="box">
+        <p>Email: paljatin239@gmail.com</p>
+        <p>Phone: +91-9110933634</p>
+        <p>Address: Department of Agriculture, Your College</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Agroforestry Website | Designed by You</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
